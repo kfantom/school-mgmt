@@ -36,6 +36,9 @@
             "aot": true
           },
           "configurations": {
+            "github-pages": {
+              "baseHref": "/School-mgmt/"
+            },
             "production": {
               "budgets": [
                 {
@@ -103,6 +106,9 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
