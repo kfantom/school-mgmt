@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100vh;
+    width: 100vw;
+}
+
+.mat-drawer-backdrop.mat-drawer-shown {
+    opacity: 0.4 !important;
+}
+
+table {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 25px;
+}
+
+th.mat-header-cell {
+    font-weight: bold;
+    font-size: larger;
+    color: black;
+}
+
+.mat-cell, .mat-footer-cell {
+    font-size: medium;
+    font-family: cursive;
+}
