@@ -37,7 +37,7 @@
           },
           "configurations": {
             "github-pages": {
-              "baseHref": "/school-mgmt/"
+              "baseHref": "/dist/school-mgmt/"
             },
             "production": {
               "budgets": [
