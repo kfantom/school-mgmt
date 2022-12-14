@@ -36,9 +36,6 @@
             "aot": true
           },
           "configurations": {
-            "github-pages": {
-              "baseHref": "/dist/school-mgmt/"
-            },
             "production": {
               "budgets": [
                 {
